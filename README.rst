@@ -1,1 +1,1 @@
-Research findings and papers in NLU, Machine Learning and Statisitcs
+My research findings and learnings from papers across NLU, Machine Learning and Statisitcs
